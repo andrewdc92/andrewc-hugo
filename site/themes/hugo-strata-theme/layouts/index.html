@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+
+
+	{{ if not .Site.Params.recentposts.hide }}
+		{{ partial "recent-posts" . }}
+	{{ end }}
+
+
+{{ end }}
