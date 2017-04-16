@@ -2,7 +2,7 @@
 categories = []
 date = "2017-04-16T16:29:40-07:00"
 tags = []
-title = "my_experience_with_netlify"
+title = "My Experience with Netlify"
 
 +++
 Overall I had a positive experience, but I can definitely outline a few points of confusion.
