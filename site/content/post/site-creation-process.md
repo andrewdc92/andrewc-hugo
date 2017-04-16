@@ -12,3 +12,4 @@ With Hugo, the scaffolding creates a more bare-bones style setup and only throug
  My main challenge with Jekyll was figuring out why newly created HTML would be reverted to the boilerplate whenever I added a custom partial (i.e., a nav bar) into the _ _includes_ directory. It was because of the `bundle exec jekyll serve —watch` command I ran after initialization.
 
 I had zero issues with Hugo, and I found their documentation + examples to be more coherent.
+I also enjoyed that I could pretty easily figure out what was going on in the theme's generated files by looking at the generated browser content, and I made a few customizations to get my info rendering on one page. 
